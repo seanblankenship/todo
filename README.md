@@ -1,2 +1,3 @@
 # todo
-cli todo app written in Golang
+
+todo app written in Golang
